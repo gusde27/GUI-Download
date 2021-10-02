@@ -42,7 +42,7 @@ public class dataStream {
             System.out.println("nilai integer : " + var1);
             System.out.println("nilai double : " + var2);
             System.out.println("nilai float : " + var3);
-            
+            //in and out
             out.close();
             in.close();
         }
